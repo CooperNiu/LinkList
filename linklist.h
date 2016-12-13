@@ -1,4 +1,4 @@
-//linklist.h 
+//linklist.h
 // Created by Cooper on 11/10/2016.
 #ifndef LINKLIST_LINKLIST_H
 #define LINKLIST_LINKLIST_H
